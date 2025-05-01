@@ -1,0 +1,39 @@
+#overlay-container {
+    position: fixed;
+    bottom: 5px; /* Réduit la marge par rapport au bas de l'écran */
+    left: 5px; /* Réduit la marge par rapport à la gauche */
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 8px; /* Réduit l'espace intérieur */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    font-size: 12px; /* Réduit la taille de la police générale */
+  }
+  
+  #overlay button {
+    margin: 3px; /* Réduit la marge entre les boutons */
+    padding: 6px 10px; /* Réduit la taille des boutons */
+    font-size: 12px; /* Réduit la taille de la police des boutons */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #overlay button:hover {
+    background-color: #0056b3;
+  }
+  
+  #speed-slider {
+    width: 120px; /* Réduit la largeur du slider */
+    margin: 5px 0;
+  }
+  
+  #slider-value {
+    display: inline-block;
+    margin-left: 8px;
+    color: white;
+    font-weight: bold;
+  }
+  

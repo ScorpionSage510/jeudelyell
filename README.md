@@ -10,7 +10,7 @@ Cette extension pour Google Chrome est conçue pour vous assister lors de votre 
 
 ## Aperçu
 
-![capture d'écran]https://raw.githubusercontent.com/ScorpionSage510/Images/main/DefiDeLyell.png
+![capture d'écran](https://raw.githubusercontent.com/ScorpionSage510/Images/main/DefiDeLyell.png)
 
 ## Installation
 
